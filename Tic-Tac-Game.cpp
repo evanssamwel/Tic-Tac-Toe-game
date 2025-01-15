@@ -1,4 +1,3 @@
-/* BROUGHT TO YOU BY code-projects.org*/
 #include<iostream>
 #include<conio.h>
 #include<stdio.h>
